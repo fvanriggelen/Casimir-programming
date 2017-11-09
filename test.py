@@ -9,10 +9,10 @@ def circle_circumference(r):
 
 print(circle_circumference(4))
 
-def cicle_area(r):
+def circle_area(r):
 	area = np.pi*r**2
 	return area
 
-print(circle_area(4)
-)
+print(circle_area(4))
+
 
